@@ -46,7 +46,7 @@ body {
   font: 500 1rem 'DM sans', sans-serif;
   transition: background 0.3s; /* tempo para o botao ficar completamente preenchido*/
 }
-s .button:hover {
+.button:hover {
   /* Passar o mouse encima e mudar a cor. Bem bacana */
   background: gray;
 }
